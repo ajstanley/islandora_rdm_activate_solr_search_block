@@ -1,0 +1,8 @@
+name: 'Activate Solr Search Block'
+type: module
+core: 8.x
+dependencies:
+  - block
+  - islandora
+  - views
+package: 'Islandora RDM'
